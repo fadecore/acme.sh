@@ -6,7 +6,7 @@ Docs: github.com/acmesh-official/acme.sh/wiki/dnsapi#dns_infoblox
 Options:
  Infoblox_Creds Credentials. E.g. "username:password"
  Infoblox_Server Server hostname. IP or FQDN of infoblox appliance
- Infoblox_View if not using "default"
+ Infoblox_View if not using "default".
 Issues: github.com/jasonkeller/acme.sh
 Author: Jason Keller, Elijah Tenai
 '
